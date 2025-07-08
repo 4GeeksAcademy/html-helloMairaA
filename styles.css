@@ -1,0 +1,35 @@
+* {
+    background-color:rgb(210, 232, 239);
+}
+h1 {
+    margin-top: 0;
+    text-align: center;
+    background: white;
+    border: 1px solid black;
+}
+.Feed {
+    padding-left: 600px;
+}
+h3 {
+    font-family: 'Franklin Gothic Medium';
+    width:270px;
+    margin-top: 10px;
+}
+
+.upperDiv {
+    display: flex;
+}
+img {
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    object-fit: cover;
+}
+.description {
+    width: 300px;
+    height:auto;
+    font-family:'Franklin Gothic Medium';
+    text-align: justify;
+    background-color: white;
+    margin-top: 0;
+}
